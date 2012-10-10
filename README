@@ -1,0 +1,6 @@
+Hector - A literate Haskell implementation of the ELIZA chatterbot.
+
+Code to accompany the blog post
+  http://www.felixcrux.com/posts/hector-literate-haskell-implementation-eliza/
+
+Just a little playing around with Haskell, no real purpose to it.
